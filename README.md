@@ -7,7 +7,7 @@ https://docs.pmnd.rs/react-three-fiber/getting-started/installation#react-native
 
 It also depends on the Expo library, especially the [Expo GLView](https://docs.expo.dev/versions/latest/sdk/gl-view/).
 
-
+![IMG_5740](https://user-images.githubusercontent.com/11500792/230758728-bc37337a-ba83-4659-b18b-382bc7554716.PNG)
 
 ## Limitations
 
